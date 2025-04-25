@@ -356,7 +356,7 @@
     "Name": "BLAKE GALLER",
     "Address": "3331 E Meridian Park Loop, Wasilla, AK 99654, USA",
     "Phone": "+1 907-357-2332",
-    "Website": NaN,
+    "Website": null,
     "Rating": 3.5
   },
   {
@@ -374,7 +374,7 @@
     "Name": "Ketchikan Medical Clinic Inc",
     "Address": "212 Carlanna Lake Rd, Ketchikan, AK 99901, USA",
     "Phone": "+1 907-225-5144",
-    "Website": NaN,
+    "Website": null,
     "Rating": 5.0
   },
   {
@@ -383,7 +383,7 @@
     "Name": "Dr. Wynelle R. Snow, MD",
     "Address": "21 Jefferson St Suite 201, Ketchikan, AK 99901, USA",
     "Phone": "+1 907-220-9948",
-    "Website": NaN,
+    "Website": null,
     "Rating": 5.0
   },
   {
@@ -527,7 +527,7 @@
     "Name": "Skin and Cancer Institute - Mesa",
     "Address": "4140 E Baseline Rd STE 110, Mesa, AZ 85206, USA",
     "Phone": "+1 623-267-5025",
-    "Website": "https://skinandcancerinstitute.com/location/mesa/",
+    "Website": "https://skinulldcancerinstitute.com/location/mesa/",
     "Rating": 4.8
   },
   {
@@ -545,7 +545,7 @@
     "Name": "Skin and Cancer Institute - Chandler",
     "Address": "6145 W Chandler Blvd Suite #3, Chandler, AZ 85226, USA",
     "Phone": "+1 480-454-8744",
-    "Website": "https://skinandcancerinstitute.com/location/chandler/",
+    "Website": "https://skinulldcancerinstitute.com/location/chandler/",
     "Rating": 4.8
   },
   {
@@ -698,7 +698,7 @@
     "Name": "G. Luke Lewis, MD",
     "Address": "6801 Rogers Ave Suite 4th Floor, Fort Smith, AR 72903, USA",
     "Phone": "+1 479-274-3800",
-    "Website": NaN,
+    "Website": null,
     "Rating": 5.0
   },
   {
@@ -1031,7 +1031,7 @@
     "Name": "Skin and Cancer Institute - Fresno",
     "Address": "6181 N Thesta St Suite #104, Fresno, CA 93710, USA",
     "Phone": "+1 559-825-0300",
-    "Website": "https://skinandcancerinstitute.com/location/fresno/",
+    "Website": "https://skinulldcancerinstitute.com/location/fresno/",
     "Rating": 4.6
   },
   {
@@ -1265,7 +1265,7 @@
     "Name": "Forefront Dermatology - Lakewood",
     "Address": "255 Routt Street, Lakewood, CO 80228, USA",
     "Phone": "+1 303-761-7797",
-    "Website": NaN,
+    "Website": null,
     "Rating": 4.7
   },
   {
@@ -1301,7 +1301,7 @@
     "Name": "Dr. Katherine J. Pesce, MD",
     "Address": "4699 Main St, Bridgeport, CT 06606, USA",
     "Phone": "+1 203-372-8949",
-    "Website": NaN,
+    "Website": null,
     "Rating": 4.0
   },
   {
@@ -1319,7 +1319,7 @@
     "Name": "Dr. Joseph R. Pesce, MD",
     "Address": "4699 Main St #212, Bridgeport, CT 06606, USA",
     "Phone": "+1 203-372-8949",
-    "Website": NaN,
+    "Website": null,
     "Rating": 5.0
   },
   {
@@ -1570,8 +1570,8 @@
     "City": "Dover",
     "Name": "Bette Lazzaro",
     "Address": "1001 S Bradford St #7, Dover, DE 19904, USA",
-    "Phone": NaN,
-    "Website": NaN,
+    "Phone": null,
+    "Website": null,
     "Rating": 5.0
   },
   {
@@ -1733,7 +1733,7 @@
     "Name": "Greater Miami Skin & Laser Center",
     "Address": "4308 Alton Rd Suite 750, Miami Beach, FL 33140, USA",
     "Phone": "+1 305-532-4478",
-    "Website": "https://miamiskinandlaser.com/",
+    "Website": "https://miamiskinulldlaser.com/",
     "Rating": 4.8
   },
   {
@@ -2282,7 +2282,7 @@
     "Name": "Mauro Charles MD",
     "Address": "868 Ululani St STE 103, Hilo, HI 96720, USA",
     "Phone": "+1 808-961-3427",
-    "Website": NaN,
+    "Website": null,
     "Rating": 3.6
   },
   {
@@ -2291,7 +2291,7 @@
     "Name": "Shapiro Robert S MD",
     "Address": "868 Ululani St STE 109, Hilo, HI 96720, USA",
     "Phone": "+1 808-961-9040",
-    "Website": NaN,
+    "Website": null,
     "Rating": 3.5
   },
   {
@@ -2633,7 +2633,7 @@
     "Name": "Benjamin Raab, MD",
     "Address": "3973 75th St STE 103, Aurora, IL 60504, USA",
     "Phone": "+1 630-499-8999",
-    "Website": NaN,
+    "Website": null,
     "Rating": 3.3
   },
   {
@@ -2893,7 +2893,7 @@
     "City": "Evansville",
     "Name": "Dermatology Associates of Evansville",
     "Address": "1212 Professional Blvd B, Evansville, IN 47714, USA",
-    "Phone": NaN,
+    "Phone": null,
     "Website": "http://www.evansvillederm.com/",
     "Rating": 4.9
   },
@@ -3119,7 +3119,7 @@
     "Name": "Accredited Dermatology Associates",
     "Address": "2322 E Kimberly Rd #100n, Davenport, IA 52807, USA",
     "Phone": "+1 563-355-3376",
-    "Website": NaN,
+    "Website": null,
     "Rating": 4.0
   },
   {
@@ -3452,16 +3452,16 @@
     "Name": "Dermatology PA",
     "Address": "1706 SW 10th Ave, Topeka, KS 66604, USA",
     "Phone": "+1 785-357-5166",
-    "Website": NaN,
+    "Website": null,
     "Rating": 4.6
   },
   {
     "State": "Kansas",
     "City": "Topeka",
-    "Name": "Adnan Kurtovic, MD",
+    "Name": "Adnull Kurtovic, MD",
     "Address": "2902 SW Asbury Dr 1st Floor, Topeka, KS 66614, USA",
     "Phone": "+1 785-270-0187",
-    "Website": "https://www.stormontvail.org/provider/adnan-kurtovic-md/",
+    "Website": "https://www.stormontvail.org/provider/adnull-kurtovic-md/",
     "Rating": 5.0
   },
   {
@@ -3551,7 +3551,7 @@
     "Name": "Advanced Dermatology, PSC",
     "Address": "715 Shaker Dr STE 132, Lexington, KY 40504, USA",
     "Phone": "+1 859-288-5004",
-    "Website": NaN,
+    "Website": null,
     "Rating": 3.3
   },
   {
@@ -4324,8 +4324,8 @@
     "City": "Worcester",
     "Name": "Camille Roberts, MD - General and Cosmetic Dermatologist",
     "Address": "255 Park Ave, Worcester, MA 01609, USA",
-    "Phone": NaN,
-    "Website": NaN,
+    "Phone": null,
+    "Website": null,
     "Rating": 4.9
   },
   {
@@ -4514,7 +4514,7 @@
     "Name": "Dermatology Institute of Detroit",
     "Address": "24924 Michigan Ave, Dearborn, MI 48124, USA",
     "Phone": "+1 313-631-3550",
-    "Website": NaN,
+    "Website": null,
     "Rating": 4.8
   },
   {
@@ -4613,7 +4613,7 @@
     "Name": "Skin & Vein Center",
     "Address": "44056 Mound Rd #101, Sterling Heights, MI 48314, USA",
     "Phone": "+1 586-314-1400",
-    "Website": "https://www.skinandvein.com/",
+    "Website": "https://www.skinulldvein.com/",
     "Rating": 4.5
   },
   {
@@ -4640,7 +4640,7 @@
     "Name": "Dr. Eric Seiger",
     "Address": "44056 Mound Rd #101, Sterling Heights, MI 48314, USA",
     "Phone": "+1 586-314-1400",
-    "Website": "https://www.skinandvein.com/dr-eric-seiger.html",
+    "Website": "https://www.skinulldvein.com/dr-eric-seiger.html",
     "Rating": 4.9
   },
   {
@@ -4811,7 +4811,7 @@
     "Name": "Lawrence E. Gibson, MD",
     "Address": "200 1st St SW, Rochester, MN 55905, USA",
     "Phone": "+1 507-284-2511",
-    "Website": NaN,
+    "Website": null,
     "Rating": 5.0
   },
   {
@@ -4964,7 +4964,7 @@
     "Name": "Dr. Alan T. Lewis, MD",
     "Address": "1245 42nd Ave, Gulfport, MS 39501, USA",
     "Phone": "+1 228-864-8049",
-    "Website": NaN,
+    "Website": null,
     "Rating": 3.7
   },
   {
@@ -5009,7 +5009,7 @@
     "Name": "Keoni Nguyen, DO, FAOCD, FAAD",
     "Address": "1009 Tommy Munro Dr suite a, Biloxi, MS 39532, USA",
     "Phone": "+1 228-232-0872",
-    "Website": NaN,
+    "Website": null,
     "Rating": 5.0
   },
   {
@@ -5315,7 +5315,7 @@
     "Name": "Velum Skin - Dr. Cheryl Cook",
     "Address": "178 S 32nd St W #2A, Billings, MT 59102, USA",
     "Phone": "+1 406-656-1244",
-    "Website": NaN,
+    "Website": null,
     "Rating": 4.7
   },
   {
@@ -5738,7 +5738,7 @@
     "Name": "Skin and Cancer Institute - Henderson",
     "Address": "2960 St Rose Pkwy Suite #120, Henderson, NV 89052, USA",
     "Phone": "+1 702-558-5100",
-    "Website": "https://skinandcancerinstitute.com/location/henderson/",
+    "Website": "https://skinulldcancerinstitute.com/location/henderson/",
     "Rating": 4.8
   },
   {
@@ -6026,7 +6026,7 @@
     "Name": "Peter J. Sands, MD",
     "Address": "2 Pillsbury St, Concord, NH 03301, USA",
     "Phone": "+1 603-333-2908",
-    "Website": NaN,
+    "Website": null,
     "Rating": 4.9
   },
   {
@@ -6044,7 +6044,7 @@
     "Name": "Ebaa Alawami, MD of Concord Dermatology",
     "Address": "248 Pleasant St Suite 103, Concord, NH 03301, USA",
     "Phone": "+1 603-415-6464",
-    "Website": NaN,
+    "Website": null,
     "Rating": 5.0
   },
   {
@@ -6179,7 +6179,7 @@
     "Name": "Better Skin Dermatology - Jersey City",
     "Address": "100 Town Square Pl #409, Jersey City, NJ 07310, USA",
     "Phone": "+1 201-626-4040",
-    "Website": NaN,
+    "Website": null,
     "Rating": 4.4
   },
   {
@@ -6332,7 +6332,7 @@
     "Name": "Dr. Julianne H. Kuflik, MD",
     "Address": "150 E Kennedy Blvd, Lakewood, NJ 08701, USA",
     "Phone": "+1 732-364-0515",
-    "Website": NaN,
+    "Website": null,
     "Rating": 5.0
   },
   {
@@ -6413,7 +6413,7 @@
     "Name": "Dermatology of Las Cruces - Andrew Ondo, M.D.",
     "Address": "3865 Foothills Rd, Las Cruces, NM 88011, USA",
     "Phone": "+1 575-521-7117",
-    "Website": NaN,
+    "Website": null,
     "Rating": 3.2
   },
   {
@@ -6782,7 +6782,7 @@
     "Name": "Charlotte Skin and Laser",
     "Address": "130 Providence Rd, Charlotte, NC 28207, USA",
     "Phone": "+1 704-333-9113",
-    "Website": "https://charlotteskinandlaser.com/",
+    "Website": "https://charlotteskinulldlaser.com/",
     "Rating": 4.8
   },
   {
@@ -7520,7 +7520,7 @@
     "Name": "Urice Thomas D MD",
     "Address": "2413 Palmer Cir, Norman, OK 73069, USA",
     "Phone": "+1 405-321-5322",
-    "Website": NaN,
+    "Website": null,
     "Rating": 4.3
   },
   {
@@ -7988,7 +7988,7 @@
     "Name": "David F Dieteman Inc",
     "Address": "3190 Glenwood Park Ave, Erie, PA 16508, USA",
     "Phone": "+1 814-459-2726",
-    "Website": NaN,
+    "Website": null,
     "Rating": 3.3
   },
   {
@@ -8006,7 +8006,7 @@
     "Name": "Dr. Donald L. Baxter Jr, MD",
     "Address": "3416 State St, Erie, PA 16508, USA",
     "Phone": "+1 814-456-7548",
-    "Website": NaN,
+    "Website": null,
     "Rating": 3.8
   },
   {
@@ -8483,7 +8483,7 @@
     "Name": "Palmetto Skin & Laser Center",
     "Address": "1563 Health Care Dr, Rock Hill, SC 29732, USA",
     "Phone": "+1 803-329-6030",
-    "Website": "http://www.palmettoskinandlasercenter.com/",
+    "Website": "http://www.palmettoskinulldlasercenter.com/",
     "Rating": 3.2
   },
   {
@@ -8492,7 +8492,7 @@
     "Name": "Timothy G. Woodall, MD",
     "Address": "1563 Health Care Dr, Rock Hill, SC 29732, USA",
     "Phone": "+1 803-329-6030",
-    "Website": "http://www.palmettoskinandlasercenter.com/",
+    "Website": "http://www.palmettoskinulldlasercenter.com/",
     "Rating": 4.4
   },
   {
@@ -9014,7 +9014,7 @@
     "Name": "Sonterra Dermatology",
     "Address": "1314 E Sonterra Blvd STE 2201, San Antonio, TX 78258, USA",
     "Phone": "+1 210-981-3600",
-    "Website": "https://www.dermatologysanantonio.com/?utm_source=google&utm_medium=localsearch&utm_campaign=gmb",
+    "Website": "https://www.dermatologysanulltonio.com/?utm_source=google&utm_medium=localsearch&utm_campaign=gmb",
     "Rating": 4.8
   },
   {
@@ -9401,7 +9401,7 @@
     "Name": "Seal Patricia MD",
     "Address": "30 Farrell St # 200, South Burlington, VT 05403, USA",
     "Phone": "+1 802-864-9522",
-    "Website": NaN,
+    "Website": null,
     "Rating": 5.0
   },
   {
@@ -9437,7 +9437,7 @@
     "Name": "Seal Patricia MD",
     "Address": "30 Farrell St # 200, South Burlington, VT 05403, USA",
     "Phone": "+1 802-864-9522",
-    "Website": NaN,
+    "Website": null,
     "Rating": 5.0
   },
   {
@@ -9635,7 +9635,7 @@
     "Name": "Dr. Larry L. Legum, MD",
     "Address": "113 Coastal Way, Chesapeake, VA 23320, USA",
     "Phone": "+1 757-547-9401",
-    "Website": NaN,
+    "Website": null,
     "Rating": 4.3
   },
   {
@@ -10049,7 +10049,7 @@
     "Name": "Milroy Stephen K MD",
     "Address": "3100 MacCorkle Ave SE #809, Charleston, WV 25304, USA",
     "Phone": "+1 304-345-0280",
-    "Website": NaN,
+    "Website": null,
     "Rating": 5.0
   },
   {
@@ -10085,7 +10085,7 @@
     "Name": "Elaine M Young Md",
     "Address": "1411 6th Ave, Huntington, WV 25701, USA",
     "Phone": "+1 304-525-6132",
-    "Website": NaN,
+    "Website": null,
     "Rating": 4.5
   },
   {
@@ -10157,7 +10157,7 @@
     "Name": "Woofter Joseph C MD",
     "Address": "1806 Washington Ave, Parkersburg, WV 26101, USA",
     "Phone": "+1 304-485-4471",
-    "Website": NaN,
+    "Website": null,
     "Rating": 5.0
   },
   {
@@ -10363,8 +10363,8 @@
     "City": "Kenosha",
     "Name": "Marjorie F. Yang, MD, FAAD",
     "Address": "9020 76th St E, Pleasant Prairie, WI 53158, USA",
-    "Phone": NaN,
-    "Website": NaN,
+    "Phone": null,
+    "Website": null,
     "Rating": 4.7
   },
   {
